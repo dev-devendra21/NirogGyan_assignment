@@ -61,7 +61,7 @@ npm run dev
 
 ## 🙌 Author
 
-**Devendra Kumar**
+**Devendra Chandana**
 [GitHub Profile](https://github.com/dev-devendra21)
 
 ---
